@@ -2,14 +2,14 @@
 <div align="center">
 
 <h1>
-  <img src="https://img.shields.io/badge/StreamToolV2-v2.0-9146FF?style=for-the-badge&logo=twitch&logoColor=white" alt="StreamToolV2">
+  <img src="https://img.shields.io/badge/OpenStreamTool-v2.0-9146FF?style=for-the-badge&logo=twitch&logoColor=white" alt="OpenStreamTool">
 </h1>
 
 <h2>The Only Streaming Tool You'll Ever Need</h2>
 
 <p>Replace StreamElements, Streamlabs, and Streamer.bot with one powerful platform</p>
 
-[Explore Features](#-all-in-one-feature-breakdown) • [Why StreamToolV2](#-why-choose-streamtoolv2) • [Get Started](#-getting-started)
+[Explore Features](#-all-in-one-feature-breakdown) • [Why OpenStreamTool](#-why-choose-OpenStreamTool) • [Get Started](#-getting-started)
 
 [![Twitch](https://img.shields.io/badge/Twitch-Integration-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://twitch.tv)
 [![OBS](https://img.shields.io/badge/OBS-Studio-302B31?style=for-the-badge&logo=obsstudio&logoColor=white)](https://obsproject.com)
@@ -22,8 +22,8 @@
 
 ## Table of Contents
 
-- [What is StreamToolV2?](#what-is-streamtoolv2)
-- [Why Choose StreamToolV2?](#-why-choose-streamtoolv2)
+- [What is OpenStreamTool?](#what-is-OpenStreamTool)
+- [Why Choose OpenStreamTool?](#-why-choose-OpenStreamTool)
 - [All-in-One Feature Breakdown](#-all-in-one-feature-breakdown)
   - [Alert Builder](#-alert-builder)
   - [Overlay Builder](#-overlay-builder)
@@ -45,11 +45,11 @@
 
 ---
 
-## What is StreamToolV2?
+## What is OpenStreamTool?
 
-**StreamToolV2** is a complete, all-in-one streaming platform that combines every tool you need into one beautiful, web-based dashboard. No more juggling five different websites, no more paying multiple subscriptions, no more wrestling with conflicting software.
+**OpenStreamTool** is a complete, all-in-one streaming platform that combines every tool you need into one beautiful, web-based dashboard. No more juggling five different websites, no more paying multiple subscriptions, no more wrestling with conflicting software.
 
-With StreamToolV2, you get:
+With OpenStreamTool, you get:
 - A **full alert system** that replaces StreamElements alerts
 - A **complete chat bot** that replaces Streamlabs chatbot
 - A **powerful automation engine** that replaces Streamer.bot
@@ -63,13 +63,13 @@ Everything works together seamlessly, controlled from one intuitive dashboard th
 
 ---
 
-## Why Choose StreamToolV2?
+## Why Choose OpenStreamTool?
 
 ### One Tool to Rule Them All
 
-Stop paying for multiple services. Stop switching between browser tabs. Stop wondering which tool controls what. StreamToolV2 puts everything in one place.
+Stop paying for multiple services. Stop switching between browser tabs. Stop wondering which tool controls what. OpenStreamTool puts everything in one place.
 
-**Replace all of these with StreamToolV2:**
+**Replace all of these with OpenStreamTool:**
 - ❌ StreamElements alerts → ✅ Built-in Alert Builder
 - ❌ Streamlabs chatbot → ✅ Complete Command System
 - ❌ Streamer.bot automations → ✅ Visual Automation Builder
@@ -90,7 +90,7 @@ Stop paying for multiple services. Stop switching between browser tabs. Stop won
 
 ### Built for the Future
 
-StreamToolV2 is built on modern, open-source technology that's constantly evolving. Regular updates add new features based on community feedback. Plus, our plugin system (coming soon) will let the community build and share custom extensions.
+OpenStreamTool is built on modern, open-source technology that's constantly evolving. Regular updates add new features based on community feedback. Plus, our plugin system (coming soon) will let the community build and share custom extensions.
 
 ---
 
@@ -1651,7 +1651,7 @@ Use Discord in your automations:
 
 #### Plugin System (Coming)
 
-**Extend StreamToolV2**
+**Extend OpenStreamTool**
 - Custom action types
 - Custom event handlers
 - Custom dashboard pages
@@ -1710,7 +1710,7 @@ Use Discord in your automations:
 
 ### Quick Start
 
-1. **Download** StreamToolV2
+1. **Download** OpenStreamTool
 2. **Run** the setup script (installs everything automatically)
 3. **Open** your browser to the dashboard
 4. **Connect** your Twitch account
@@ -1742,18 +1742,18 @@ Once set up, try these:
 
 **Replace StreamElements, Streamlabs, and Streamer.bot with one powerful tool**
 
-[Download Now](https://streamtoolv2.com/download) •
-[Watch Demo](https://streamtoolv2.com/demo) •
-[Join Discord](https://discord.gg/streamtoolv2) •
-[Documentation](https://docs.streamtoolv2.com)
+[Download Now](https://OpenStreamTool.com/download) •
+[Watch Demo](https://OpenStreamTool.com/demo) •
+[Join Discord](https://discord.gg/OpenStreamTool) •
+[Documentation](https://docs.OpenStreamTool.com)
 
 ---
 
 **Built with ❤️ by streamers, for streamers**
 
-[Website](https://streamtoolv2.com) •
-[GitHub](https://github.com/streamtoolv2) •
-[Twitter](https://twitter.com/streamtoolv2) •
-[YouTube](https://youtube.com/@streamtoolv2)
+[Website](https://OpenStreamTool.com) •
+[GitHub](https://github.com/OpenStreamTool) •
+[Twitter](https://twitter.com/OpenStreamTool) •
+[YouTube](https://youtube.com/@OpenStreamTool)
 
 </div>
